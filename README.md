@@ -2,7 +2,7 @@
 Anomaly-based intrusion detection system that aims to detect malicious traffic over a network. For this project, three learning models were assessed: random forest, xgboost, and neural networks.
 
 ## How to Run
-1. Install Kyoto-IDS.ipynb with Data directory
+1. Install Kyoto-IDSv13.ipynb with Data directory
 2. Install the data from https://www.takakura.com/Kyoto_data/new_data201704/ (Note: 2015 data was used)
 3. Extract the data into the Data directory, storing the extracted month folder in /Data
 4. Execute the notebook in order
